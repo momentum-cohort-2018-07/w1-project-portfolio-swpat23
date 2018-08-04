@@ -29,6 +29,13 @@ li {margin: 12px;
     border: black;
     border-style: solid;
     
-
 }
 
+.project_picture {
+    border: black;
+    border-style: solid;
+    margin: 0 0 0 20px
+    
+
+
+}
