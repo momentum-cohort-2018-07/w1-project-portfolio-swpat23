@@ -5,8 +5,9 @@
 
 }
 
-.menu { text-align: center;
+.menu { text-align: left;
         padding: 0 0 0 15px;
+        float: center;
         
 
 }
