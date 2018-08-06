@@ -42,6 +42,34 @@ li {margin: 10px;
     border-style: solid;
     margin: 0 0 0 30px
     
-
-
 }
+
+@media screen and (min-width: 768px) {
+        h3, h4, p {
+          
+          text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+    picture {
+    
+       text-align: center;
+
+    }
+
+@media screen and (min-width: 768px) {
+        
+     li { 
+        display: inline-block;
+        float: right;
+        
+     }
+
+     @media screen and (min-width: 768px) {
+        
+        p { 
+           margin: 0 20% 0 20%;
+
+        {
+
+     
